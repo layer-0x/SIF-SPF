@@ -1,6 +1,6 @@
 
 
-# MIP55c3-SPx: Adding/Modifying a Special Purpose Fund 
+# MIP55c3-SP #x: Adding/Modifying a Special Purpose Fund 
 
 ## Preamble
 
@@ -29,7 +29,7 @@ It will initially provide coverage to the founding team, recognized delegates an
 
 ## Motivation
 
-Self-insurance is a well known risk management technique that consists in setting funds aside for compensating a possible future loss. More technically, it is a tool for retaining risk managing risks professionally. Typically self insurance is used when risk can not be transferred through instruments like insurances. Self insurance instruments can be used as an alternative or a complement to traditional insurances. 
+Self-insurance is a well known risk management technique that consists in setting funds aside for compensating a possible future loss. More technically, it is a tool for retaining and managing risks professionally. Typically self insurance is used when risk can not be transferred through instruments like insurances. Self insurance instruments can be used as an alternative or a complement to traditional insurances. 
 
 Self insurances are fully customizable instruments which can be tailor made to cover novel or complex risks. For these reason, they are suitable risk management instruments for DAOs.
 
@@ -47,17 +47,13 @@ Funds will be held in escrow. If a legitimate claim occurres, Comptrollers will 
 
 The companies [Gallagher] (https://www.ajg.com/us/) and [Artex] (https://www.artexrisk.com/) have developed for SES a [feasibility study] (https://drive.google.com/drive/u/2/folders/1zH6ycmrpAzWmdcl9Zlx6mB-VNMg3AV5I) including description of the risk coverage, capital requirements and claims protocol.
 
-* The Special Purpose Fund (SPF) Scope must outline the scope of the problem SPF is filling, its solution, and any dependencies and maintenance necessary for the SPF to contribute to the success of the project.
-* The Special Purpose Fund Scope should be specific to ensure that Maker Governance has clarity about what need it is supporting.
-* The Special Purpose Fund Scope must be limited to either timeframe or specific deliverable (i.e., The Protocol needs audits. Funds are approved, Dai goes into escrow, and 2 Comptrollers release funds once audits are complete).
-
 ### Funding Breakdown
 
-Funds in the SIF are intended to be held in escrow as a contingency budget for covering legal expenses. 
+Funds in the SIF are intended to be held in escrow as a contingency budget for covering legal defense and legal representation expenses. 
 
 A comprehensive claim and operational protocol will be developed, which will include: 
 
-- Description of insured persons
+- Description of insured persons and classification in risk leyers
 - Description of the risks covered
 - Coverage Amounts
 - Exclusions
@@ -66,13 +62,9 @@ A comprehensive claim and operational protocol will be developed, which will inc
 
 
 Additionally, the SIF will be used as a first protection layer to get additional coverage in the insurance and financial markets. 
-If the SIF SPF is approved, we will make as next step an approximation to insurance markets in London to test apetite of the market and conditions for extended legal defense coverage and d&o.
 
+If the SIF SPF is approved, we will an approximation to insurance markets in London to test apetite of the market for underwriting risks and negotiate conditions for extended legal defense coverage and d&o.
 
-
-
-* Outline key milestones that exemplify a SPF funding to be completed.
-* The funding breakdown should outline the requested funds in detail, including the total amount.
 
 ### Special Purpose Fund Details
 
@@ -81,6 +73,6 @@ Official Contact or Group Name: @layerzero
 Contact Email/Handle: layer.zero@ses.makerdao.network
 Date Added: (yyyy-mm-dd)
 Total Amount: In Dai. 5M DAI
-Wallet Address: Public wallet address of Multi-Sig.
-Comptroller signers: Include links to public statements verifying an individuals’ involvement as a Comptroller.
+Wallet Address: Public wallet address of Multi-Sig.  TBD
+Comptroller signers: Include links to public statements verifying an individuals’ involvement as a Comptroller.   TBD
 ```
