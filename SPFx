@@ -1,28 +1,37 @@
 
 
-# MIP55c3-SP: Adding/Modifying a Special Purpose Fund 
+# MIP55c3-SPx: Adding/Modifying a Special Purpose Fund 
 
 ## Preamble
 
 ```
-MIP55c3-SP#:
+MIP55c3-SPx:
 Author(s): @layerzero
 Contributors:
-Tags: 
+Tags: spf
 Status:
 Date Proposed: (yyyy-mm-dd)
 Date Ratified: (yyyy-mm-dd)
-Amount Requested:
-Recipient Address:
+Amount Requested: 5M DAI
+Recipient Address:TBD
 ```
 
 ## Sentence Summary
 
+This SPF requests 5M DAI for establishing a Self Insurance Fund (SIF) for MakerDAO.
+
 ## Paragraph Summary
+
+The SIF will reimburse legal expenses incurred by specific participants in the MakerDAO ecosystem in case of legal or regulatory proceedings. 
+
+It will initially provide coverage to the founding team, recognized delegates and permanent contributors. Coverage can be extended to additional group of persons in the future.
+
 
 ## Motivation
 
-* Why are you proposing this Special Purpose Fund?
+Self-insurance is a well known risk management technique that consists in setting funds aside for compensating a possible future loss. More technically, it is a tool for retaining risk managing risks professionally. Typically self insurance is used when risk can not be transferred through instruments like insurances. Self insurance instruments can be used as an alternative or a complement to traditional insurances. 
+
+Self insurances are fully customizable instruments which can be tailor made to cover novel or complex risks. For these reason, they are suitable risk management instruments for DAOs.
 
 ## Special Purpose Fund Name
 
