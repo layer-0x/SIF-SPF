@@ -24,14 +24,14 @@ This SPF requests 5M DAI for establishing a Self Insurance Fund (SIF) for MakerD
 
 The SIF will reimburse legal expenses incurred by specific participants in the MakerDAO ecosystem in case of legal or regulatory proceedings. 
 
-It will initially provide coverage to the founding team, recognized delegates and permanent contributors. Coverage can be extended to additional group of persons in the future.
+It will initially provide coverage to the founding team, recognized delegates, and permanent contributors. Coverage will be extended to additional groups of persons.
 
 
 ## Motivation
 
-Self-insurance is a well known risk management technique that consists in setting funds aside for compensating a possible future loss. More technically, it is a tool for retaining and managing risks professionally. Typically self insurance is used when risk can not be transferred through instruments like insurances. Self insurance instruments can be used as an alternative or a complement to traditional insurances. 
+Self-insurance is a well-known risk management technique that consists in setting funds aside for compensating a possible future loss. More technically, it is a tool for retaining and managing risks professionally. Typically self-insurance is used when risk can not be transferred through instruments like insurance. Self-insurance instruments can be used as an alternative or a complement to a traditional insurance. 
 
-Self insurances are fully customizable instruments which can be tailor made to cover novel or complex risks. For these reason, they are suitable risk management instruments for DAOs.
+Self-insurances are fully customizable instruments which can be tailor-made to cover novel or complex risks. For these reason, they are suitable risk management instruments for DAOs.
 
 ## Special Purpose Fund Name
 
@@ -39,13 +39,13 @@ Self Insurance Fund
 
 ## Special Purpose Fund Scope & Work Credentials
 
-DAOs are novel organizational structures and as such, expose their participants to unprecedented legal risks. MakerDAO is not a company and is not incorporated as a legal entity, hence it is unable to provide liability protection for its stakeholders. Traditional risk transfer instruments such as insurances are scarce in the crypto industy. The SIF aims to fill this gap, retaining and managing some of these legal risks. 
+DAOs are novel organizational structures and as such, expose their participants to unprecedented legal risks. MakerDAO is not a company and is not incorporated as a legal entity, hence it is unable to provide liability protection for its stakeholders. Traditional risk transfer instruments such as insurance are scarce in the crypto industry. The SIF aims to fill this gap, retaining and managing some of these legal risks. 
 
-The SIF will be used as a contingency budget to cover legal defense costs in case a MakerDAO stakeholder is target of a lawsuit or a regulatory action. Additionally, the SIF can be used in the future as a first protection layer for getting additional coverage in the insurance or financial markets.
+The SIF will be used as a contingency budget to cover legal defense costs in case a MakerDAO stakeholder is a target of a lawsuit or a regulatory action. Additionally, the SIF can be used in the future as a first protection layer for getting additional coverage in the insurance or financial markets.
 
-Funds will be held in escrow. If a legitimate claim occurres, Comptrollers will release funds to a whitelisted ETH address controlled by the claimant. Claims have to be backed by sufficient documentation and will follow a process determined in the SIF feasibility study. Claims will be first submitted to an external, techncial committee, which will analyze the claim and the documentation and issue a recommendation for approving the claim or not. The Comptrollers will act de facto as an internal committee who can decide to accept the recommendation and release the funds or deny it. 
+Funds will be held in escrow. If a legitimate claim occurs, Comptrollers will release funds to a whitelisted ETH address controlled by the claimant. Claims have to be backed by sufficient documentation and will follow a process determined in the SIF feasibility study. Claims will be first submitted to an external, technical committee, which will analyze the claim and the supportive documentation and issue a recommendation for approving or rejecting the claim. The Comptrollers will act de facto as an internal committee that can decide to accept or reject the recommendation of the technical committe, and ultimately decide to release the funds to the claimant. 
 
-The companies [Gallagher] (https://www.ajg.com/us/) and [Artex] (https://www.artexrisk.com/) have developed for SES a [feasibility study] (https://drive.google.com/drive/u/2/folders/1zH6ycmrpAzWmdcl9Zlx6mB-VNMg3AV5I) including description of the risk coverage, capital requirements and claims protocol.
+The companies [Gallagher] (https://www.ajg.com/us/) and [Artex] (https://www.artexrisk.com/) have developed for SES a [feasibility study] (https://drive.google.com/drive/u/2/folders/1zH6ycmrpAzWmdcl9Zlx6mB-VNMg3AV5I) including a description of the risk coverage, capital requirements, and claims protocol.
 
 ### Funding Breakdown
 
@@ -53,7 +53,7 @@ Funds in the SIF are intended to be held in escrow as a contingency budget for c
 
 A comprehensive claim and operational protocol will be developed, which will include: 
 
-- Description of insured persons and classification in risk leyers
+- Description of insured persons and classification in risk layers
 - Description of the risks covered
 - Coverage Amounts
 - Exclusions
@@ -63,7 +63,7 @@ A comprehensive claim and operational protocol will be developed, which will inc
 
 Additionally, the SIF will be used as a first protection layer to get additional coverage in the insurance and financial markets. 
 
-If the SIF SPF is approved, we will an approximation to insurance markets in London to test apetite of the market for underwriting risks and negotiate conditions for extended legal defense coverage and d&o.
+If the SIF SPF is approved, we will an approximation to insurance markets in London to test appetite of the market for underwriting risks and negotiate conditions for extended legal defense coverage and d&o.
 
 
 ### Special Purpose Fund Details
