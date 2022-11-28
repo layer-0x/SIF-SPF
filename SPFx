@@ -53,16 +53,34 @@ The companies [Gallagher] (https://www.ajg.com/us/) and [Artex] (https://www.art
 
 ### Funding Breakdown
 
+Funds in the SIF are intended to be held in escrow as a contingency budget for covering legal expenses. 
+
+A comprehensive claim and operational protocol will be developed, which will include: 
+
+- Description of insured persons
+- Description of the risks covered
+- Coverage Amounts
+- Exclusions
+- Claim process
+ -Documentation required
+
+
+Additionally, the SIF will be used as a first protection layer to get additional coverage in the insurance and financial markets. 
+If the SIF SPF is approved, we will make as next step an approximation to insurance markets in London to test apetite of the market and conditions for extended legal defense coverage and d&o.
+
+
+
+
 * Outline key milestones that exemplify a SPF funding to be completed.
 * The funding breakdown should outline the requested funds in detail, including the total amount.
 
 ### Special Purpose Fund Details
 
 ```
-Official Contact or Group Name: The designated contact for the SPF.
-Contact Email/Handle: The contact details for the SPF and Multi-Sig.
+Official Contact or Group Name: @layerzero
+Contact Email/Handle: layer.zero@ses.makerdao.network
 Date Added: (yyyy-mm-dd)
-Total Amount: In Dai.
+Total Amount: In Dai. 5M DAI
 Wallet Address: Public wallet address of Multi-Sig.
 Comptroller signers: Include links to public statements verifying an individuals’ involvement as a Comptroller.
 ```
