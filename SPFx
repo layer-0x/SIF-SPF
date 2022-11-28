@@ -39,16 +39,13 @@ Self Insurance Fund
 
 ## Special Purpose Fund Scope & Work Credentials
 
-DAOs are novel organizational structures and as such, expose their participants to unprecedented legal risks. MakerDAO is not a company and is not incorporated as a legal entity, hence it is uncapable to provide liability protection for its stakeholders. Traditional risk transfer instruments such as insurances are scarce in the crypto industries. The SIF aims to fill this gap and coverarge to some of these novel risks. 
-The SIF aims to provide coverage
+DAOs are novel organizational structures and as such, expose their participants to unprecedented legal risks. MakerDAO is not a company and is not incorporated as a legal entity, hence it is unable to provide liability protection for its stakeholders. Traditional risk transfer instruments such as insurances are scarce in the crypto industy. The SIF aims to fill this gap, retaining and managing some of these legal risks. 
 
 The SIF will be used as a contingency budget to cover legal defense costs in case a MakerDAO stakeholder is target of a lawsuit or a regulatory action. Additionally, the SIF can be used in the future as a first protection layer for getting additional coverage in the insurance or financial markets.
 
 Funds will be held in escrow. If a legitimate claim occurres, Comptrollers will release funds to a whitelisted ETH address controlled by the claimant. Claims have to be backed by sufficient documentation and will follow a process determined in the SIF feasibility study.
 
-
-
-The companies Gallagher / Artex have developed for SES a feasibility study including description of the risk coverage, capital requirements and claims protocol.
+The companies [Gallagher] (https://www.ajg.com/us/) and [Artex] (https://www.artexrisk.com/) have developed for SES a feasibility study including description of the risk coverage, capital requirements and claims protocol.
 
 * The Special Purpose Fund (SPF) Scope must outline the scope of the problem SPF is filling, its solution, and any dependencies and maintenance necessary for the SPF to contribute to the success of the project.
 * The Special Purpose Fund Scope should be specific to ensure that Maker Governance has clarity about what need it is supporting.
