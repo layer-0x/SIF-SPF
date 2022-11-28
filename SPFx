@@ -43,7 +43,7 @@ DAOs are novel organizational structures and as such, expose their participants 
 
 The SIF will be used as a contingency budget to cover legal defense costs in case a MakerDAO stakeholder is target of a lawsuit or a regulatory action. Additionally, the SIF can be used in the future as a first protection layer for getting additional coverage in the insurance or financial markets.
 
-Funds will be held in escrow. If a legitimate claim occurres, Comptrollers will release funds to a whitelisted ETH address controlled by the claimant. Claims have to be backed by sufficient documentation and will follow a process determined in the SIF feasibility study.
+Funds will be held in escrow. If a legitimate claim occurres, Comptrollers will release funds to a whitelisted ETH address controlled by the claimant. Claims have to be backed by sufficient documentation and will follow a process determined in the SIF feasibility study. Claims will be first submitted to an external, techncial committee, which will analyze the claim and the documentation and issue a recommendation for approving the claim or not. The Comptrollers will act de facto as an internal committee who can decide to accept the recommendation and release the funds or deny it. 
 
 The companies [Gallagher] (https://www.ajg.com/us/) and [Artex] (https://www.artexrisk.com/) have developed for SES a feasibility study including description of the risk coverage, capital requirements and claims protocol.
 
