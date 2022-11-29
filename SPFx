@@ -41,7 +41,9 @@ Self Insurance Fund
 
 DAOs are novel organizational structures and as such, expose their participants to unprecedented legal risks. MakerDAO is not a company and is not incorporated as a legal entity, hence it is unable to provide liability protection for its stakeholders. Traditional risk transfer instruments such as insurance are scarce in the crypto industry. The SIF aims to fill this gap, retaining and managing some of these legal risks. 
 
-The SIF will be used as a contingency budget to cover legal defense costs in case a MakerDAO stakeholder is a target of a lawsuit or a regulatory action. Additionally, the SIF can be used in the future as a first protection layer for getting additional coverage in the insurance or financial markets.
+The SIF will be used as a contingency budget to cover legal defense costs in case a MakerDAO stakeholder is a target of a lawsuit or a regulatory action. MakerDAO stakeholders entitled to receive coverage will be defined in the claim protocol and previously whitelisted. There needs to be a direct link between the legal proceedings and the activity of the person at MakerDAO. In principle any type of process is eligible for coverage, but cases such as fraud or conflict of interest will be excluded. 
+
+Additionally, the SIF can be used in the future as a first protection layer for getting additional coverage in the insurance or financial markets.
 
 Funds will be held in escrow. If a legitimate claim occurs, Comptrollers will release funds to a whitelisted ETH address controlled by the claimant. Claims have to be backed by sufficient documentation and will follow a process determined in the SIF feasibility study. Claims will be first submitted to an external, technical committee, which will analyze the claim and the supportive documentation and issue a recommendation for approving or rejecting the claim. The Comptrollers will act de facto as an internal committee that can decide to accept or reject the recommendation of the technical committe, and ultimately decide to release the funds to the claimant. 
 
@@ -49,16 +51,25 @@ The companies [Gallagher] (https://www.ajg.com/us/) and [Artex] (https://www.art
 
 ### Funding Breakdown
 
-Funds in the SIF are intended to be held in escrow as a contingency budget for covering legal defense and legal representation expenses. 
+Funds in the SIF are intended to be held in escrow as a contingency budget for covering legal defense and legal representation expenses. Coverage amounts and limits per case will depend on:
+a) Risk layer of the claimant
+b) Type of process
+c) Number of processess per year
+d) Number of targeted persons per process
 
-A comprehensive claim and operational protocol will be developed, which will include: 
+Funds in the SIF will be owned by Governance. 
+
+The SIF will not cover operational costs of the project.
+
+A detailed claim protocol will be developed, which will include: 
 
 - Description of insured persons and classification in risk layers
+- Registration process
 - Description of the risks covered
-- Coverage Amounts
+- Coverage amounts and limits
 - Exclusions
-- Claim process
- -Documentation required
+- Description of the claim process, timimg and decision making rules
+- Documentation required for claims
 
 
 Additionally, the SIF will be used as a first protection layer to get additional coverage in the insurance and financial markets. 
