@@ -31,14 +31,16 @@ Initially, coverage will be provided to:
 - CU Facilitators 
 - CU permanent contributors
 
-Coverage may be extended in the future to cover additional  groups of persons.
+Coverage may be extended in the future to cover additional groups of persons.
 
 
 ## Motivation
 
-Self-insurance is a well-known risk management technique that consists in setting funds aside for compensating a possible future loss. More technically, it is a tool for retaining and managing risks professionally. Typically self-insurance is used when risk can not be transferred through instruments like insurance. Self-insurance instruments can be used as an alternative or a complement to a traditional insurance. 
+Self-insurance is a well-known risk management technique that consists in setting funds aside for compensating a possible future loss. Technically, it is a tool for retaining and managing risks professionally. Typically self-insurance is used when risk can not be transferred through instruments like insurances. Self-insurance instruments can be used as an alternative or a complement to a traditional insurance. 
 
-Self-insurances are fully customizable instruments which can be tailor-made to cover novel or complex risks. For these reason, they are suitable risk management instruments for DAOs.
+DAOs are novel organizational structures and as such, may expose their participants to novel legal risks. MakerDAO is not a company, is not incorporated as a legal entity and has no employees. For these reasons it is unable to limit liability risks for its stakeholders, the way a centralized organization could do for its employees. 
+
+Self-insurances are customizable instruments which can be tailor-made to manage novel or complex risks. They are for this reaon suitable risk management instruments for DAOs.
 
 ## Special Purpose Fund Name
 
@@ -46,11 +48,12 @@ Self Insurance Fund
 
 ## Special Purpose Fund Scope & Work Credentials
 
-DAOs are novel organizational structures and as such, expose their participants to unprecedented legal risks. MakerDAO is not a company and is not incorporated as a legal entity, hence it is unable to provide liability protection for its stakeholders. Traditional risk transfer instruments such as insurance are scarce in the crypto industry. The SIF aims to fill this gap, retaining and managing some of these legal risks. 
 
-The SIF will be used as a contingency budget to cover legal defense costs in case a MakerDAO stakeholder is a target of a lawsuit or a regulatory action. MakerDAO stakeholders entitled to receive coverage will be defined in the claim protocol and previously whitelisted. One of the requisites for a claim to be valid is a direct link between the legal proceedings and the activity of the person at MakerDAO. In principle any type of process is eligible for coverage, but cases such as fraud or conflict of interest will be excluded from coverage. Claims will be submitted initially to an external, technical committee, that will assess the claim and produce a payout recommendation. SPF Multisig signers can decide if they execute the payout to the claimant or not.  
+The SIF will be used as a contingency budget to cover legal defense costs in case a MakerDAO stakeholder is a target of a lawsuit or a regulatory action. 
 
-Additionally, the SIF can be used in the future as a first protection layer for getting additional coverage in the insurance or financial markets.
+All claims will be processeed according to a strict process contained in the SIF Claim Procedure Manual. This Procedure Manual will be developed by the companies Gallagher and Artex
+
+MakerDAO stakeholders entitled to receive coverage will be defined in the claim protocol and previously whitelisted. One of the requisites for a claim to be valid is a direct link between the legal proceedings and the activity of the person at MakerDAO. In principle any type of process is eligible for coverage, but cases such as fraud or conflict of interest will be excluded from coverage. Claims will be submitted initially to an external, technical committee, that will assess the claim and produce a payout recommendation. SPF Multisig signers can decide if they execute the payout to the claimant or not.  
 
 Funds will be held in escrow. If a legitimate claim occurs, Comptrollers will release funds to a whitelisted ETH address controlled by the claimant. Claims have to be backed by sufficient documentation and will follow a process determined in the SIF feasibility study. Claims will be first submitted to an external, technical committee, which will analyze the claim and the supportive documentation and issue a recommendation for approving or rejecting the claim. The Comptrollers will act de facto as an internal committee that can decide to accept or reject the recommendation of the technical committe, and ultimately decide to release the funds to the claimant. 
 
@@ -59,7 +62,7 @@ The companies [Gallagher] (https://www.ajg.com/us/) and [Artex] (https://www.art
 ### Funding Breakdown
 
 - Funding will be done in a lump sum upon Governance Approval of the SPF.
-- Funds in the SIF are intended to be held in escrow as a contingency budget for covering legal defense and legal representation expenses. 
+- Funds in the SIF are intended to be held as a contingency budget for covering legal defense and legal representation expenses. 
 - The SIF will not cover operational costs of the project.
 
 Coverage amounts and limits per case will depend on:
@@ -84,6 +87,7 @@ A detailed claim protocol will be developed, which will include:
 In the next stage of the project, the SIF will be used as a first protection layer to get additional coverage in the insurance and financial markets. 
 
 If the SIF SPF is approved, next milestones of the project are:
+
  - An approximation to insurance markets in London to test appetite of the market for underwriting legal risks and negotiate conditions.
  - Hire the technical committe which will be in charge of the initial claim evaluation and assessment.
  - If necessary, and depending on the response of the markets, structure a legal vehicle to act as an insurance policyholder.
